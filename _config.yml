@@ -4,11 +4,11 @@ bio:                'ceballosm.github.io'
 description:        "my scratchpad."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/smoke.jpeg'
+logo:               'assets/img/rain.jpeg'
 background:         'assets/img/rain.jpeg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-url:                https://ceballosm.github.io
+url:                https://github.com/ceballosm
 
 # Jekyll
 permalink:          /:title/
