@@ -1,4 +1,5 @@
-yout: post
+---
+layout: post
 title: WinProladder
 date: 2019-10-29
 excerpt: "."
