@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: just junk
+tags: [about, Jekyll, theme]
 date: 2016-03-21
 comments: false
 ---
