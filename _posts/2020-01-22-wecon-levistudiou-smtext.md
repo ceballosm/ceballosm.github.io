@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WECON LeviStudioU
-date: 2019-12-30
+date: 2020-01-22
 excerpt: "."
 tags: [exploit]
 comments: false
